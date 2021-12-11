@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://adarshrawatt.github.io/portfolioAdarsh.github.io/](https://adarshrawatt.github.io/portfolioAdarsh.github.io/)
+- 👨‍💻 All of my projects are in my Portfolio website at [https://adarshrawatt.github.io/portfolioAdarsh.github.io/](https://adarshrawatt.github.io/portfolioAdarsh.github.io/)
 
 - 📫 How to reach me **00adarshrawat00@gmail.com**
 
