@@ -14,7 +14,7 @@
 - ⚡ Fun fact **I think I am funny!**
 
 <h3 align="left">Connect with me:</h3>
-<img src:"//images.ctfassets.net/yadj1kx9rmg0/wtrHxeu3zEoEce2MokCSi/cf6f68efdcf625fdc060607df0f3baef/quwowooybuqbl6ntboz3.jpg">
+
 <p align="left">
 <a href="https://linkedin.com/in/adarshrawatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adarshrawatt" height="30" width="40" /></a>
 <a href="https://instagram.com/adarshrawattt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adarshrawattt" height="30" width="40" /></a>
